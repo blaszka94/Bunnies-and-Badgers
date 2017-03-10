@@ -8,7 +8,7 @@
 
 #Plan tworzenia gry:
 ####1 tydzień : Konfiguracja projektu z PyCharm z platformą GitHub, utworzenie odpowiednich repozyteriów
-####2 tydzień : Dodanie wszystkich potrzebnych plików audio i plików graficznych do projektu. Dodaniescenerii i bohatera(króliczka)
+####2 tydzień : Dodanie wszystkich potrzebnych plików audio i plików graficznych do projektu. Dodanie scenerii i bohatera(króliczka)
 ####3 tydzień : Dodanie możliwości poruszania króliczkiem za pomocą strzałek oraz obracania za pomocą myszki
 ####4 tydzień : Dodanie możliwość strzelania oraz dodanie wrogów(borsuków)
 ####5 tydzień : Implementacja funkcji "życia" , oraz timera. Dodanie HUDa

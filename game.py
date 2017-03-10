@@ -29,9 +29,7 @@ while 1:
     screen.blit(playerrot, playerpos1)
     pygame.display.flip()
     for event in pygame.event.get():
-        # check if the event is the X button
         if event.type == pygame.QUIT:
-            # if it is quit the game
             pygame.quit()
             exit(0)
         if event.type == pygame.KEYDOWN:
@@ -53,7 +51,6 @@ while 1:
             elif event.key == pygame.K_d:
                 keys[3] = False
 
-    # 9 - Move player
     if keys[0]:
         playerpos[1] -= 5
     elif keys[2]:
@@ -62,3 +59,4 @@ while 1:
         playerpos[0] -= 5
     elif keys[3]:
         playerpos[0] += 5
+
