@@ -15,7 +15,7 @@
 ####6 tydzień : Dodanie możliwości wygrania lub przegrania gry. Przypisanie dzwięków do odpowiednich działań
 ####7 tydzień : Oddanie projektu
 
-##Źródła pomocnicze
+## Źródła pomocnicze
 ####https://www.youtube.com/watch?v=K5F-aGDIYaM&list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq
 ####https://www.youtube.com/watch?v=mTmJfWdZzbo
 ####https://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python
